@@ -1,0 +1,6 @@
+azure-core
+azure-identity
+azure-mgmt-compute
+azure-mgmt-core
+msal
+typing-extensions
